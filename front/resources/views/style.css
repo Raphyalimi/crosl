@@ -1,0 +1,166 @@
+body
+{
+	background-color: black;
+	color : orange;
+	font-family: Arial;
+}
+
+.titre1
+{
+	color: orange;
+	font-size: 500%;
+	margin-top: -160px;
+	font-weight: 400;
+	position: fixed; 
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+#bouton
+{
+	display: inline-block;
+	line-height: 100px;
+	color: #FFF;
+	padding: 0 50px;
+	font-size : 200%;
+
+	border: 2px solid #FFF;
+	border-radius : 50px;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+
+	margin-top: 75px;
+	text-decoration: none;
+}
+
+#bouton:hover
+{
+	color: #BA7112;
+	font-weight: 700;
+
+	border-color: #BA7112;
+	transition: 0.5s;
+	text-decoration: none;
+}
+
+#header-logo
+{
+    font-size: 150%;
+	display: block;
+	float: left;
+	margin-top: 0%;
+    color: white;
+    text-decoration: none;
+}
+
+#header-logo:hover
+{
+	color: #BA7112;
+	text-decoration: none;
+	transition: 0.5s;
+}
+
+.facture
+{
+	display: inline-block;
+	margin-top: 5%;
+	margin-left: 28%;
+}
+
+#ligue
+{
+	line-height: 50px;
+	color: #FFF;
+	padding: 0 50px;
+	font-size : 200%;
+	border: 2px solid #FFF;
+	border-radius : 50px;
+	transform: translate(-50%, -50%);
+	text-decoration: none;
+	display: inline-block;
+}
+
+#prestation
+{
+	line-height: 50px;
+	color: #FFF;
+	padding: 0 50px;
+	font-size : 200%;
+	border: 2px solid #FFF;
+	border-radius : 50px;
+	transform: translate(-50%, -50%);
+	text-decoration: none;
+	display: inline-block;
+}
+
+#ligue:hover
+{
+	color: #BA7112;
+	font-weight: 700;
+	border-color: #BA7112;
+	transition: 0.5s;
+	text-decoration: none;
+}
+
+#prestation:hover
+{
+	color: #BA7112;
+	font-weight: 700;
+	border-color: #BA7112;
+	transition: 0.5s;
+	text-decoration: none;
+}
+
+.titre2
+{
+	color: orange;
+	text-align: center;
+	display: inline-block;
+	font-size: 200%;
+	margin-top: 10%;
+	margin-left: 35%;
+	transform: translate(-50%, -50%);
+}
+
+.titre3
+{
+	color: orange;
+	text-align: center;
+	display: inline-block;
+	font-size: 100%;
+	margin-top: 10%;
+	margin-left: 35%;
+	transform: translate(-50%, -50%);
+}
+
+.formulaire
+{
+	margin-top: 2%;
+	margin-left: 35%;
+	margin-right: 35%;
+}
+
+.menu
+{
+	margin-top: -50%;
+}
+
+.couleurf
+{
+	background-color: orange;
+	font-weight: bold;
+}
+
+#retour
+{
+	margin-top: 15%;
+	text-decoration: none;
+}
+
+.titre4
+{
+	margin-top: 15%;
+}
